@@ -31,6 +31,7 @@ options:
 
 ## Credits
 
-This project is based on the original work by Suryesh:
-https://github.com/Suryesh/Firebase-Checker
-The code has been heavily modified and adapted for automated bug bounty usage.
+This project is heavily based on the original work by Suryesh:
+https://github.com/Suryesh/Firebase_Checker
+
+The code has been modified and adapted for automated bug bounty usage.
